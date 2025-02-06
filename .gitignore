@@ -1,2 +1,3 @@
 .serializer_venv
 notes.md
+*.pkl
