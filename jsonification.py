@@ -1,7 +1,5 @@
 import json
 
-from numpy import mat
-
 data = {
     "email": None,
     "name": "John Doe",
