@@ -6,8 +6,10 @@ class Person:
     first_name: str
     last_name: str
 
-jdoe = Person('John', 'Doe')
+if __name__ == "__main__":
 
-print(jdoe)
+    jdoe = Person('John', 'Doe')
 
-dill.dump_module('dill_source.pkl')
+    print(jdoe)
+
+    dill.dump_module('dill_source.pkl')
