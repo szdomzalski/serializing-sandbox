@@ -2,3 +2,6 @@
 notes.md
 *.pkl
 __pycache__
+*.pyc
+*.sqlite3
+migrations/
