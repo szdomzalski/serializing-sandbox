@@ -1,4 +1,5 @@
 .serializer_venv
+.vscode
 notes.md
 *.pkl
 __pycache__
